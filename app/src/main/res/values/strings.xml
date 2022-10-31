@@ -1,0 +1,311 @@
+<resources>
+    <string name="app_name">Dalang App</string>
+
+    <!-- Wayang Local Data (Offline Data) -->
+    <integer-array name="data_wayang_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="data_wayang_name">
+        <item>Wayang Beber</item>
+        <item>Wayang Gedog</item>
+        <item>Wayang Golek</item>
+        <item>Wayang Kulit</item>
+        <item>Wayang Krucil</item>
+        <item>Wayang Suluh</item>
+    </string-array>
+    <string-array name="data_wayang_description">
+        <item>
+            Masyarakat Indonesia mungkin lebih mengenal wayang kulit daripada wayang beber. Padahal nyatanya, wayang beber merupakan wayang tertua di Indonesia. Sedangkan, wayang kulit merupakan bentuk modifikasi dari wayang beber.
+            \n\nSesuai dengan namanya, wayang beber adalah sebuah pertunjukan wayang yang dilakukan dengan cara membeberkan atau membentangkan lembaran kertas atau kain bergambar dengan stilisasi wayang (kulit) disertai narasi oleh seorang dalang.
+            \n\nDisebut sebagai wayang tertua karena wayang beber mulai ada dan dikembangkan sejak zaman Kerajaan Jenggala tahun 1223 M. Lalu berlanjut hingga masa kerajaan-kerajaan Islam (seperti Kesultanan Mataram). Cerita yang ditampilkan diambil dari Mahabharata maupun Ramayana. Setelah Islam menjadi agama utama di Jawa, cerita-cerita Panji lebih banyak yang ditampilkan.
+            \n\nPertunjukan wayang beber bisa dilakukan siang atau malam hari, kecuali malam Jum’at Kliwon karena pada malam tersebut wayang beber harus diberi sesajen. Sedangkan selama bulan puasa atau Ramadhan tidak diperkenankan melakukan pertunjukan wayang beber.
+            \n\nLalu untuk dalang wayang beber harus seorang pria dan keahliannya mendalang itu diwariskan turun-temurun secara lisan kepada generasi penerus, biasanya seorang putra dari sang Dalang sendiri. Apabila sang Dalang tidak mempunyai anak laki-laki, keahlian mendalang itu dapat diwariskan kepada salah seorang keponakannya yang juga laki-laki.
+            \n\nPerkembangan zaman menuntut wayang beber untuk turut menyesuaikan. Maka dari itu muncul wayang beber kontemporer yang dicetuskan oleh Dani Iswardana pada tahun 2005. Bila wayang klasik biasa menyajikan cerita Mahabharata dan Ramayana, sekarang wayang kontemporer lebih menonjolkan cerita tentang kehidupan masyarakat saat ini.
+            \n\nSelain Dani, Komunitas Wayang Beber Metropolitan juga mementaskannya dengan pembahasan kehidupan di Jakarta lengkap dengan isu masyarakat perkotaan dan solusi yang ditawarkan. Bentuk Wayang Beber Metropolitan secara fisik banyak berubah bentuk dari tradisi. Namun walaupun banyak perubahan, ciri khas wayang beber masih terlihat jelas. Yaitu dengan adanya gambar yang berisi cerita wayang dan berbentuk gulungan gambar.
+            \n\nMelalui Kementerian Pendidikan dan Kebudayaan, pemerintah juga berusaha mengenalkan wayang beber ke masyarakat. Lewat acara Festival Panji Nusantara yang digelar tiap tahun, wayang beber mendapatkan tempat untuk dipentaskan dan ditonton khalayak umum.
+        </item>
+        <item>
+            Wayang Gedog atau Wayang Panji adalah wayang yang memakai cerita dari serat Panji. Wayang ini mungkin telah ada sejak zaman Majapahit. Bentuk wayangnya hampir sama dengan wayang purwa. Tokoh-tokoh kesatria selalu memakai tekes dan rapekan. Tokoh-tokoh rajanya memakai garuda mungkur dan gelung keling.
+            \n\nWayang Gedog adalah wayang kulit yang menceritakan kisah sejak Sri Gatayu, Putera Prabu Jayalengkara sampai masa Prabu Kuda Laleyan. Sebutan Wayang Gedog diperkirakan berasal dari pertunjukan Wayang Gedog yang mula mula tanpa iringan kecrek (besi), sehingga bunyi suara keprak "dog" sangat dominan. Beberapa sumber ada yang mengatakan Wayang Gedhog bersumber dari kata kedok atau topeng, versi lain ada yang mengatakan Gedhog mengambil kata suara hentakan kaki kuda.
+            \n\nCerita Wayang Gedog bersumber pada cerita Panji yang muncul pada zaman Kediri dan Majapahit. Istilah Panji sebagai gelar ksatria dan raja muncul pada zaman pemerintahan Jayabaya di Kediri pada abad XI. Pada masa itu Jayabaya bergelar Sang Mapanji Jayabaya yang memerintah pada tahun 1135-1157. Selain gelar panji, muncul juga gelar dengan mengambil nama-nama binatang perkasa sebagai penghormatan.
+        </item>
+        <item>
+            Wayang golek merupakan salah satu merupakan warisan budaya Indonesia yang terdapat di daerah sunda jawa barat. Wayang golek merupakan sebuah pertunjukan wayang dari boneka kayu. Seperti wayang pada umumnya wayang golek diiringi oleh musik ketika ditampilkan. Biasanya dari alat music gamelan yang sering disebut slendro.
+            \n\nDalam gamelan sunda, alat-alat diantaranya adalah saron, peking, selentem, kenong, gong, kempul, kendang indung, kendang kulanter, gambang dan rebab. Juga akan ada sinden yang akan mengiringi pertunjukan wayang golek dengan nyanyian yang merdu.
+            \n\nAsal mula wayang golek tidak diketahui secara jelas karena tidak ada keterangan lengkap, baik tertulis maupun lisan. Kehadiran wayang golek tidak dapat dipisahkan dari wayang kulit karena wayang golek merupakan perkembangan dari wayang kulit.
+        </item>
+        <item>
+            Wayang kulit dibuat dari bahan kulit sapi yang sudah diproses menjadi kulit lembaran. Wayang kulit dimainkan oleh seorang dalang yang juga menjadi narator dialog tokoh-tokoh wayang, dengan diiringi oleh musik gamelan yang dimainkan sekelompok nayaga dan tembang yang dinyanyikan oleh para pesinden.
+            \n\nPertunjukan wayang kulit telah diakui oleh UNESCO pada tanggal 7 November 2003, sebagai karya kebudayaan yang mengagumkan dalam bidang cerita narasi dan warisan yang indah dan berharga (Masterpiece of Oral and Intangible Heritage of Humanity). Wayang kulit lebih populer di Jawa bagian tengah dan timur, sedangkan wayang golek lebih sering dimainkan di Jawa Barat.
+        </item>
+        <item>
+            Wayang Krucil atau Wayang Klithik merupakan salah satu bentuk seni pertunjukan yang menggunakan wayang berukuran kecil, terbuat dari kayu pipih (waru, pinus, atau mentaos) dengan tangan terbuat dari kulit sehingga mudah digerak-gerakkan oleh dalang. Penamaan wayang krucil dikarenakan ukurannya yang lebih kecil dibandingkan wayang kulit, hanya ± 30 cm.
+            Kata krucil mengacu pada penyebutan untuk anak kecil dalam masyarakat Jawa. Figur wayang krucil menyerupai wayang kulit purwa, tetapi berbeda tokoh dan karakternya.
+            \n\nKesenian wayang krucil menyebar dan berkembang di sepanjang daerah aliran sungai (DAS) Brantas dan Bengawan Solo, mulai dari Jawa Timur yang meliputi wilayah Malang, Tulungagung, Kediri, Nganjuk, Ngawi, dan Bojonegoro, serta Blora di Jawa Tengah.
+            \n\nPola persebarannya menunjukkan wayang krucil tumbuh dalam lingkungan agraris yang dekat dengan aliran air (sungai), sama sekali tidak  ditemukan di kawasan pantai utara Jawa, atau wilayah yang tidak berbatasan dengan DAS Brantas dan Bengawan Solo.
+        </item>
+        <item>
+            Wayang Suluh adalah wayang yang terbuat dari kulit dan berbentuk manusia biasa, dengan tokoh wayang keseharian, misalnya P Lurah, P Haji, Ibu Guru, Bapak Guru, petani, saudagar, anak sekolah, mahasiswa dan lainya. Ceritanya pun tentang permasalahan sehari-hari dalam keluarga, masyarakat,dan kehidupan masyarakat pedesaan, sangat sederhana sesuai dengan keadaan masyarakat waktu itu.
+            \n\nSuluh berarti "secercah sinar" terang. Wayang Suluh pada zaman setelah kemerdekaan digunakan untuk kepentingan Departemen Penerangan dalam melakukan penyuluhan pembangunan kepada masyarakat. Menteri Penerangan Ali Murtopo, Boediharjo dan Harmoko maberarti sih sempat wayang suluh dijadikan media penerangan yang handal. Bahkan Dalang wayang Kulit waktu itu dalam adegan Intermeso Limbukan, diselingi dengan memainkan wayang Suluh. Mbah Cermo dari Pacitan adalah Dalang wayang suluh ternama di daerah Pacitan tsekitar Tahun 70an.
+        </item>
+    </string-array>
+    <integer-array name="data_wayang_image">
+        <item>@drawable/wayang_beber_dummy</item>
+        <item>@drawable/wayang_gedog_dummy</item>
+        <item>@drawable/wayang_golak_dummy</item>
+        <item>@drawable/wayang_kulit_dummy</item>
+        <item>@drawable/wayang_krucil_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
+    </integer-array>
+    <string-array name="data_wayang_origin">
+        <item>lokasi 1</item>
+        <item>lokasi 2</item>
+        <item>lokasi 3</item>
+        <item>lokasi 4</item>
+        <item>lokasi 5</item>
+        <item>lokasi 6</item>
+    </string-array>
+    <string-array name="data_wayang_source">
+        <item>source 1</item>
+        <item>source 2</item>
+        <item>source 3</item>
+        <item>source 4</item>
+        <item>source 5</item>
+        <item>source 6</item>
+    </string-array>
+
+
+    <!-- Dalang Local Data (Offline Data) -->
+    <integer-array name="data_dalang_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="data_dalang_name">
+        <item>Dalang 1</item>
+        <item>Dalang 2</item>
+        <item>Dalang 3</item>
+        <item>Dalang 4</item>
+        <item>Dalang 5</item>
+        <item>Dalang 6</item>
+    </string-array>
+    <string-array name="data_dalang_description">
+        <item>Ini Deskripsi Dalang 1</item>
+        <item>Ini Deskripsi Dalang 2</item>
+        <item>Ini Deskripsi Dalang 3</item>
+        <item>Ini Deskripsi Dalang 4</item>
+        <item>Ini Deskripsi Dalang 5</item>
+        <item>Ini Deskripsi Dalang 6</item>
+    </string-array>
+    <integer-array name="data_dalang_image">
+        <item>@drawable/wayang_beber_dummy</item>
+        <item>@drawable/wayang_gedog_dummy</item>
+        <item>@drawable/wayang_golak_dummy</item>
+        <item>@drawable/wayang_kulit_dummy</item>
+        <item>@drawable/wayang_krucil_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
+    </integer-array>
+    <string-array name="data_dalang_born">
+        <item>lokasi 1</item>
+        <item>lokasi 2</item>
+        <item>lokasi 3</item>
+        <item>lokasi 4</item>
+        <item>lokasi 5</item>
+        <item>lokasi 6</item>
+    </string-array>
+
+
+    <!-- Museum Local Data (Offline Data) -->
+    <integer-array name="data_museum_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="data_museum_name">
+        <item>Museum 1</item>
+        <item>Museum 2</item>
+        <item>Museum 3</item>
+        <item>Museum 4</item>
+        <item>Museum 5</item>
+        <item>Museum 6</item>
+    </string-array>
+    <string-array name="data_museum_description">
+        <item>Ini Deskripsi Museum 1</item>
+        <item>Ini Deskripsi Museum 2</item>
+        <item>Ini Deskripsi Museum 3</item>
+        <item>Ini Deskripsi Museum 4</item>
+        <item>Ini Deskripsi Museum 5</item>
+        <item>Ini Deskripsi Museum 6</item>
+    </string-array>
+    <integer-array name="data_museum_image">
+        <item>@drawable/wayang_beber_dummy</item>
+        <item>@drawable/wayang_gedog_dummy</item>
+        <item>@drawable/wayang_golak_dummy</item>
+        <item>@drawable/wayang_kulit_dummy</item>
+        <item>@drawable/wayang_krucil_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
+    </integer-array>
+    <string-array name="data_museum_location">
+        <item>lokasi 1</item>
+        <item>lokasi 2</item>
+        <item>lokasi 3</item>
+        <item>lokasi 4</item>
+        <item>lokasi 5</item>
+        <item>lokasi 6</item>
+    </string-array>
+
+    <!-- Story Local Data (Offline Data) -->
+    <integer-array name="data_story_id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </integer-array>
+    <string-array name="data_story_name">
+        <item>Story 1</item>
+        <item>Story 2</item>
+        <item>Story 3</item>
+        <item>Story 4</item>
+        <item>Story 5</item>
+        <item>Story 6</item>
+    </string-array>
+    <string-array name="data_story_description">
+        <item>Ini Deskripsi Story 1</item>
+        <item>Ini Deskripsi Story 2</item>
+        <item>Ini Deskripsi Story 3</item>
+        <item>Ini Deskripsi Story 4</item>
+        <item>Ini Deskripsi Story 5</item>
+        <item>Ini Deskripsi Story 6</item>
+    </string-array>
+    <integer-array name="data_story_image">
+        <item>@drawable/wayang_beber_dummy</item>
+        <item>@drawable/wayang_gedog_dummy</item>
+        <item>@drawable/wayang_golak_dummy</item>
+        <item>@drawable/wayang_kulit_dummy</item>
+        <item>@drawable/wayang_krucil_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
+    </integer-array>
+
+    <!-- Shop Local Data (Offline Data) -->
+    <string-array name="data_shop_url">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="data_shop_name">
+        <item>Shop 1</item>
+        <item>Shop 2</item>
+        <item>Shop 3</item>
+        <item>Shop 4</item>
+        <item>Shop 5</item>
+        <item>Shop 6</item>
+    </string-array>
+    <string-array name="data_shop_description">
+        <item>Ini Deskripsi Shop 1</item>
+        <item>Ini Deskripsi Shop 2</item>
+        <item>Ini Deskripsi Shop 3</item>
+        <item>Ini Deskripsi Shop 4</item>
+        <item>Ini Deskripsi Shop 5</item>
+        <item>Ini Deskripsi Shop 6</item>
+    </string-array>
+    <integer-array name="data_shop_image">
+        <item>@drawable/wayang_beber_dummy</item>
+        <item>@drawable/wayang_gedog_dummy</item>
+        <item>@drawable/wayang_golak_dummy</item>
+        <item>@drawable/wayang_kulit_dummy</item>
+        <item>@drawable/wayang_krucil_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
+    </integer-array>
+
+
+
+
+
+
+
+
+
+    <string name="enter" translatable="false">Enter</string>
+    <string name="harap_isi">Please fill correctly</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="lang_header">Language</string>
+    <string name="theme_header">Theme</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="theme_title">Dark Theme</string>
+    <string name="theme_summary_on">Dark
+    </string>
+    <string name="theme_summary_off" translatable="false">Default</string>
+    <string name="start_classify_wayang">Start Classify Wayang</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="welcome_subtext">Let’s discover \nand learn more about Wayang</string>
+    <string name="learn_btn">Learn</string>
+    <string name="show_more">Show More</string>
+    <string name="wayang_gallery">Wayang Gallery</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="sign_up" translatable="false">Sign Up</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="nama">Name</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="start_prediction">Start Prediction</string>
+    <string name="gallery" translatable="false">Gallery</string>
+    <string name="result_title" translatable="false">Title</string>
+    <string name="camera">Camera</string>
+    <string name="belum_punya_akun">Don\'t have an account yet ?</string>
+    <string name="sudah_punya_akun">Already have an account ?</string>
+    <string name="pilih_bahasa">Choose Language</string>
+    <string name="pilih_bahasa_sum">Choose App Language</string>
+    <string name="classified_as">Classified as</string>
+    <string name="show_wayang_type">Show Wayang Type</string>
+    <string name="card_wayang_golek" translatable="false">Wayang Golek</string>
+    <string name="card_golek_desk" translatable="false">Wayang merupakan pertunjukan diketahui berkembang sejak sebelum abad ke-10. Wayang terkenal dengan pertunjukannya yang rumit dan diatur dan bentuk cerita kuno ini berasal dari pulau Jawa di Indonesia...</string>
+    <string name="read_more">Read more</string>
+    <string name="card_wayang_kulit" translatable="false">Wayang Kulit</string>
+    <string name="card_kulit_desc" translatable="false">Wayang kulit dibuat dari bahan kulit sapi yang sudah diproses menjadi kulit lembaran. Wayang kulit dimainkan oleh seorang dalang yang juga menjadi narator dialog tokoh-tokoh wayang, dengan diiringi oleh musik gamelan yang dimainkan sekelompok nayaga dan tembang yang dinyanyikan oleh para pesinden.</string>
+    <string name="card_golek_desc2" translatable="false">Wayang golek merupakan salah satu merupakan warisan budaya Indonesia yang terdapat di daerah sunda jawa barat. Wayang golek merupakan sebuah pertunjukan wayang dari boneka kayu. Seperti wayang pada umumnya wayang golek diiringi oleh musik ketika ditampilkan. Biasanya dari alat music gamelan yang sering disebut slendro.</string>
+    <string name="card_krucil_desc" translatable="false">Wayang Krucil atau Wayang Klithik merupakan salah satu bentuk seni pertunjukan yang menggunakan wayang berukuran kecil, terbuat dari kayu pipih (waru, pinus, atau mentaos) dengan tangan terbuat dari kulit sehingga mudah digerak-gerakkan oleh dalang.</string>
+    <string name="card_suluh_desc" translatable="false">Wayang Suluh adalah wayang yang terbuat dari kulit dan berbentuk manusia biasa, dengan tokoh wayang keseharian, misalnya P Lurah, P Haji, Ibu Guru, Bapak Guru, petani, saudagar, anak sekolah, mahasiswa dan lainya. Ceritanya pun tentang permasalahan sehari-hari dalam keluarga, masyarakat,dan kehidupan masyarakat pedesaan, sangat sederhana sesuai dengan keadaan masyarakat waktu itu.</string>
+    <string name="card_gedog_desc" translatable="false">Wayang Gedog atau Wayang Panji adalah wayang yang memakai cerita dari serat Panji. Wayang ini mungkin telah ada sejak zaman Majapahit. Bentuk wayangnya hampir sama dengan wayang purwa. Tokoh-tokoh kesatria selalu memakai tekes dan rapekan. Tokoh-tokoh rajanya memakai garuda mungkur dan gelung keling.</string>
+    <string name="classified_as_please">Please</string>
+    <string name="select_first">Select/Pick An Image First</string>
+    <string name="learn_desc" translatable="false">ABC</string>
+    <string name="learn_desc2" translatable="false">Wayang merupakan pertunjukan diketahui berkembang sejak sebelum abad ke-10. Wayang terkenal dengan pertunjukannya yang rumit dan diatur dan bentuk cerita kuno ini berasal dari pulau Jawa di Indonesia. Istilah pewayangan, berasal dari kata Indonesia untuk "bayangan". \n\nWayang kulit dengan menggunakan figur yang terbuat dari kulit kerbau, dianggap sebagai bentuk wayang tertua yang berdiri sendiri, referensi paling awal untuk wayang jenis itu berasal dari tahun 800-an. Namun, sebenarnya banyak versi terkait sejarah wayang dan bagaimana wayang pertama kali menjadi tradisi pertunjukan di Indonesia. Mengutip laman Education Asian Art, seorang pujangga istana pada masa pemerintahan Raja Airlangga (1035-1049) menulis: “Ada orang yang menangis, sedih, dan terharu melihat wayang, padahal mereka tahu bahwa itu hanyalah potongan-potongan kulit yang diukir yang dimanipulasi dan dibuat untuk berbicara.
+</string>
+    <string name="dalang_biography">Dalang Biography</string>
+    <string name="other_information">Other information</string>
+    <string name="wayang" translatable="false">Wayang</string>
+    <string name="more_knowledge">More Knowledge</string>
+    <string name="language">Language</string>
+    <string name="shop_and_workshop">Shop and Workshop</string>
+    <string name="wayang_stories">Wayang Stories</string>
+    <string name="studio_and_museum">Studio and Museum</string>
+    <string name="lima_teknik_dasar_cepengan_wayang" translatable="false">Lima Teknik Dasar Cepengan Wayang</string>
+    <string name="desc_video" translatable="false">Video ini berisikan pengetahuan tentang salah satu unsur garap pakeliran, yaitu unsur garap sabet. Secara khusus adalah teknik dasar cepengan (cara memegang) wayang gaya Surakarta. Video ini dibuat untuk yang sedang belajar mendalang atau masyarakat awam yang cinta dan peduli dengabmn seni pedalangan.</string>
+    <string name="sumber_vide" translatable="false">Sumber : YT Catur Nugroho</string>
+</resources>
