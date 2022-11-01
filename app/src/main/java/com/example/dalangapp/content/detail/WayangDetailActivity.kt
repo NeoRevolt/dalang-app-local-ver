@@ -1,6 +1,5 @@
 package com.example.dalangapp.content.detail
 
-import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
