@@ -11,9 +11,6 @@ import com.example.dalangapp.databinding.ActivityWayangDetailBinding
 
 class WayangDetailActivity : AppCompatActivity() {
 
-
-    // COMMENT A
-
     private lateinit var binding: ActivityWayangDetailBinding
 
     companion object {
