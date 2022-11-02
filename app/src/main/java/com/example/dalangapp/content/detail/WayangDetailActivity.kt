@@ -12,7 +12,7 @@ import com.example.dalangapp.databinding.ActivityWayangDetailBinding
 class WayangDetailActivity : AppCompatActivity() {
 
 
-    // COMMENT A
+    // This is Experiment Branch
 
     private lateinit var binding: ActivityWayangDetailBinding
 
