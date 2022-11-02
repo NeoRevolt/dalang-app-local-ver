@@ -14,6 +14,8 @@ class WayangDetailActivity : AppCompatActivity() {
 
     // COMMENT A
 
+    // New Experimental
+
     private lateinit var binding: ActivityWayangDetailBinding
 
     companion object {
