@@ -13,6 +13,7 @@ class WayangDetailActivity : AppCompatActivity() {
 
 
     // This is Experiment Branch
+    // This is new
 
     private lateinit var binding: ActivityWayangDetailBinding
 
