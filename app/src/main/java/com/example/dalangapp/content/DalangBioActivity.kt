@@ -73,45 +73,6 @@ class DalangBioActivity : AppCompatActivity() {
             return dataDalangOffline
         }
 
-//    private fun setDalang() {
-//        showLoading(true)
-//        val service = ApiConfig.getApiService(this).getDalang()
-//        service.enqueue(object : Callback<DalangResponse> {
-//            override fun onResponse(
-//                call: Call<DalangResponse>,
-//                response: Response<DalangResponse>
-//            ) {
-//                if (response.isSuccessful) {
-//                    showLoading(false)
-//                    val responseBody = response.body()
-//                    if (responseBody != null) {
-//                        response.body()?.data?.let { listDalangItem.addAll(it) }
-//                        adapter.setList(listDalangItem)
-//                        adapter.setList(responseBody.data)
-//
-//                    } else {
-//                        showLoading(false)
-//                        Toast.makeText(
-//                            this@DalangBioActivity,
-//                            "Sorry Data Cannot Loaded",
-//                            Toast.LENGTH_SHORT
-//                        ).show()
-//                    }
-//                }
-//            }
-//
-//            override fun onFailure(call: Call<DalangResponse>, t: Throwable) {
-//                showLoading(false)
-//                Toast.makeText(
-//                    this@DalangBioActivity,
-//                    "Connection Failed",
-//                    Toast.LENGTH_SHORT
-//                ).show()
-//            }
-//
-//        })
-//    }
-
     private fun initRv() {
         adapter = DalangAdapter()
         adapter.setList(listDalangItem)

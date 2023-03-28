@@ -205,6 +205,7 @@ class WayangCameraActivity : AppCompatActivity() {
                 5 -> {
                     binding.cardSuluh.visibility = View.VISIBLE
                     binding.tvResultTitle.text = labels[max]
+                    Toast.makeText(this, labels[max], Toast.LENGTH_SHORT).show()
                     binding.btnCardSuluh.setOnClickListener {
                         Intent(this, WayangDetailActivity::class.java).also {
                             it.putExtra(WayangDetailActivity.EXTRA_ID, 6)

@@ -26,18 +26,18 @@ class SettingActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        binding.toLogOut.setOnClickListener {
-            val editor: SharedPreferences.Editor = sharedPreferences.edit()
-            editor.clear()
-            editor.apply()
-            Intent(this, MainActivity::class.java).also {
-                it.putExtra(MainActivity.EXTRA_OPTION, "logout")
-                startActivity(it)
-                finish()
-            }
+//        binding.toLogOut.setOnClickListener {
+//            val editor: SharedPreferences.Editor = sharedPreferences.edit()
+//            editor.clear()
+//            editor.apply()
+//            Intent(this, MainActivity::class.java).also {
+//                it.putExtra(MainActivity.EXTRA_OPTION, "logout")
+//                startActivity(it)
+//                finish()
+//            }
 //            val intent = Intent(this, LoginActivity::class.java)
 //            startActivity(intent)
-            finish()
-        }
+//            finish()
+//        }
     }
 }

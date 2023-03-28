@@ -63,20 +63,20 @@
         <item>@drawable/wayang_suluh_dummy</item>
     </integer-array>
     <string-array name="data_wayang_origin">
-        <item>lokasi 1</item>
-        <item>lokasi 2</item>
-        <item>lokasi 3</item>
-        <item>lokasi 4</item>
-        <item>lokasi 5</item>
-        <item>lokasi 6</item>
+        <item>Pacitan, Jawa Timur</item>
+        <item>Kediri, Jawa Timur</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah, Jawa Timur, dan Bali</item>
+        <item>Jawa Timur</item>
+        <item>Pacitan, Jawa Timur</item>
     </string-array>
     <string-array name="data_wayang_source">
-        <item>source 1</item>
-        <item>source 2</item>
-        <item>source 3</item>
-        <item>source 4</item>
-        <item>source 5</item>
-        <item>source 6</item>
+        <item>wikipedia.org dan osm.medcom.id</item>
+        <item>wikipedia.org</item>
+        <item>wikipedia.org dan bantennews.co.id</item>
+        <item>wikipedia.org</item>
+        <item>encyclopedia.jakarta-tourism.go.id</item>
+        <item>wikipedia.org dan kimpena.kabpacitan.id</item>
     </string-array>
 
 
@@ -88,22 +88,68 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </integer-array>
     <string-array name="data_dalang_name">
-        <item>Dalang 1</item>
-        <item>Dalang 2</item>
-        <item>Dalang 3</item>
-        <item>Dalang 4</item>
-        <item>Dalang 5</item>
-        <item>Dalang 6</item>
+        <item>Ki Nartosabdo</item>
+        <item>Ki Anom Suroto</item>
+        <item>Asep Sunandar Sunarya</item>
+        <item>Ki Manteb Soedharsono</item>
+        <item>Ki Slamet Gundono</item>
+        <item>Anton Surono</item>
+        <item>Ki Joko Edan</item>
+        <item>Ki Timbul Hadiprayitno</item>
+        <item>Widayat Djiang</item>
+        <item>Ki Naryo</item>
     </string-array>
     <string-array name="data_dalang_description">
-        <item>Ini Deskripsi Dalang 1</item>
-        <item>Ini Deskripsi Dalang 2</item>
-        <item>Ini Deskripsi Dalang 3</item>
-        <item>Ini Deskripsi Dalang 4</item>
-        <item>Ini Deskripsi Dalang 5</item>
-        <item>Ini Deskripsi Dalang 6</item>
+        <item>
+            Ki Nartosabdo yaitu seseorang seniman musik serta dalang wayang kulit legendaris dari Jawa Tengah, Indonesia. Nama asli Ki Nartosabdo yaitu Soenarto. Adalah putra seseorang perajin sarung keris bernama Partinoyo.
+            \n\nKi Nartosabdo bisa disebutkan juga sebagai pembaharu dunia pedalangan di tahun 80-an. Dobrakannya dalam memasukkan gending-gending ciptaannya bikin banyak dalang senior yang menyudutkannya. Bahkan juga ada RRI di salah satu kota memboikot hasil karyanya. Walau sekian support juga mengalir diantaranya dari dalang-dalang muda yang inginkan pengembangan dimana seni wayang sebaiknya lebih luwes serta tak kaku.
+            \n\nTerkecuali juga sebagai dalang terkenal, Ki Narto juga di kenal juga sebagai pencipta lagu-lagu Jawa yang sangatlah produktif. Lewat group karawitan bernama Cenderung Raos yang ia dirikan, lahir seputar 319 buah judul lagu atau gending, diantaranya yang populer Gambang Suling, Ibu Pertiwi, Klinci Ucul, Prau Monitor, serta Rujak Jeruk.
+        </item>
+        <item>
+            Ki Anom Suroto yaitu seseorang dalang Wayang Kulit Purwa. Ia mulai populer juga sebagai dalang mulai sejak seputar tahun 1975-an. Ia lahir di Juwiring, Kabupaten Klaten, Jawa Tengah, Rabu Legi 11 Agustus 1948. Pengetahuan pedalangan dipelajarinya mulai sejak usia 12 tahun dari ayahnya sendiri, Ki Sadiyun Harjadarsana. Diluar itu dengan cara segera serta tidak segera ia banyak belajar dari Ki Nartasabdodan sebagian dalang senior yang lain.
+            \n\nPada tahun 1968, Anom Suroto telah tampak di RRI (Radio Republik Indonesia), sesudah lewat seleksi ketat. Tahun 1978 ia diangkat juga sebagai abdi dalam Penewu Anon-anon dengan nama Mas Ngabehi Lebdocarito. Tahun 1995 ia beroleh Satya Lencana Kebudayaan RI dari Pemerintah RI.
+            \n\nSampai akhir era ke-20 ini, Anom Suroto yaitu hanya satu yang pernah mendalang di lima benua, diantaranya di Amerika Serikat pada tahun 1991, dalam rencana pameran KIAS (Kebudayaan Indonesia di AS). Ia juga pernah mendalang di Jepang, Spanyol, Jerman Barat (saat itu), Australia, serta banyak negara yang lain. Spesial untuk menaikkan wawasan pedalangan tentang dewa-dewa, Dr. Soedjarwo, Ketua Umum Sena Wangi, pernah kirim Ki Anom Suroto ke India, Nepal, Thailand, Mesir, serta Yunani.
+        </item>
+        <item>
+            Asep Sunandar Sunarya yang lebih di kenal dengan panggilan Asep Sunarya, yaitu dalang wayang golek yang membuat si Cepot. Wayang yang rahang bawahnya dapat digerak-gerakkan bila bicara, dapat juga melebarkan busur serta melepas anak panah, tanpa ada pertolongan tangan dalang. Dengan karyanya itu, dia layak dikatakan sebagai pendobrak jagat wayang golek di Indonesia.
+            \n\nDia dipuji serta dikritik dengan karya terobosannya itu. Tetapi, kritikan itu semakin meningkatkan semangat serta kreativitasnya. Keuletannya membawa hasil, namanya makin popular. Terlebih sesudah Asep mencapai juara dalang pinilih I Jawa Barat pada 1978 serta 1982. Lalu pada 1985, ia mencapai juara umum dalang tingkat Jawa Barat serta memboyong Bokor Kencana. Pernyataan atas kehandalan serta kreativitasnya mendalang, bukanlah saja datang dari orang-orang Jawa Barat serta Indonesia, namun juga dari luar negeri. Dia pernah jadi dosen mengagumkan di Institut International De La Marionnete di Charleville Prancis. Dari institut itu dia memperoleh gelar profesor.
+            \n\nAsep Sunarya lahir 3 September 1955 di Kampung Jelengkong, Kecamatan Baleendah, 25 km arah selatan Kota Bandung. Bernama kecil Sukana, anak ketujuh dari tiga belas bersaudara keluarga Abah Sunarya yang di kenal juga sebagai dalang legendaris di tanah Pasundan.
+        </item>
+        <item>
+            Ki Manteb Soedharsono yaitu seseorang dalang wayang kulit terkenal yang dari Jawa Tengah. Lantaran keterampilannya dalam memainkan wayang, ia juga dijuluki beberapa penggemarnya juga sebagai Dalang Setan. Ia juga dikira juga sebagai pelopor kombinasi seni pedalangan dengan peralatan musik modern. Manteb Soedharsono yaitu putra seseorang dalang juga, bernama Ki Hardjo Brahim. Ia dilahirkan di desa Jatimalang, Kelurahan Palur, Kecamatan Mojolaban, Kabupaten Sukoharjo, Jawa Tengah, pada tanggal 31 Agustus 1948.
+            \n\nKi Manteb mulai mendalang mulai sejak kecil. Tetapi, popularitasnya juga sebagai seniman tingkat nasional mulai diperhitungkan umum mulai sejak ia mengadakan pertunjukan Banjaran Bima satu bulan sekali sepanjang satu tahun penuh di Jakarta pada tahun 1987. Ki Manteb mengakui, Banjaran Bima adalah tonggak bersejarah dalam kehidupannya. Mulai sejak itu namanya makin populer. Bahkan juga, pada tahun 90-an, tingkat popularitasnya sudah melebihi Ki Anom Suroto, yang juga jadi kakak angkatnya.
+        </item>
+        <item>
+            Dalang wayang ini termasuk juga dalang populer nyentrik. Ki Slamet Gundono namanya. Sampai akhir hayatnya pria bertubuh gemuk ini di kenal juga sebagai dalang kontroversial wayang suket.
+            \n\nGundono dilahirkan dari keluarga dalang di Tegal Jawa Tengah. Saat kecil Gundono di habiskan di kampung halaman dengan jadi siswa pesantren. Selepas SMA Gundono pernah menimba pengetahuan di Jurusan Teater di Institut Kesenian Jakarta (IKJ). Gundono mulai berkiprah juga sebagai dalang serta seniman kreatif mulai sejak 1995. Sosoknya yang senantiasa gawat pernah menggegerkan dunia pewayangan.
+            \n\nDi saat orde baru, waktu di gelar festival dalang di Solo, untuk memperingati 50 tahun Indonesia Merdeka, Gundono malah menghidangkan penampilan kontroversial. Bila dalang lain tampak sesuai sama pakem, jadi dia malah demikian sebaliknya.
+            \n\nDisebabkan tingkahnya itu, pernah menyebabkan perbincangan panjang pada panitia, juri, pengamat, sampai khalayak umum. Sebagian tokoh bahkan juga memberi support. Salah satunya seniman besar seperti Umar Kayam, Gunawan Mohamad, Murtidjono serta Halim HD.
+        </item>
+        <item>
+            Ki Anton Surono (lahir 27 Januari 1962) adalah seorang dalang wayang kulit dan wayang golek berkebangsaan Indonesia. Mengawali debutnya sejak tahun 1987. Menjadi duta kebudayaan Indonesia dengan menampilkan karya-karyanya di negara-negara ASEAN seperti Vietnam, Singapore, Myanmar, Brunei Darussalam, Thailand, Kamboja, Laos, dan Malaysia. Kemampuan mendalang Ki Anton Surono didapat dari ayahnya, Ki Suwarto Kondobuwono, dalang era 1970-an di Tegal. Pernah melakukan kolaborasi pertunjukan wayang bersama Enthus Susmono, Slamet Gundono, dan Sujiwo Tedjo.
+            \n\nPertunjukannya mengeksplorasi gaya berbagai jenis pakeliran pesisir dengan trik kelucuan intelek tanpa terjebak pada kejutan linear dunia ilmiah. Selain menekuni profesinya sebagai guru di SMA Negeri 1 Kota Tegal, Jawa Tengah, Anton Surono juga aktif menggerakkan Kelompok Pelestari Pagelaran Wayang sebagai ketua.
+        </item>
+        <item>
+            Ki Joko Edan  bernama asli Joko Prasojo. Kemudian ada nama lain, yang didapatkan setelah menikah, yaitu Joko Hadiwidjoyo. Sehingga sampai saat dini dikenal dengan sebutan Ki Dalang Joko Edan Hadiwidjoyo. Kiprahnya pada dunia seni pewayangan sudah memberikan kontribusi bagi pelestarian nilai-nilai budaya. Salah satu prestasi yang membanggakan ialah nama dirinya tercatat di Museum Rekor Indonesia sebagai sutradara pertunjukan wayang kulit yang melibatkan 34 (tiga puluh empat) kelompok seni, di Gedung Wali Kota Semarang pada Juli 2005. Joko adalah mantan suami dari pesinden Nurhana (penyanyi), dan dari hasil pernikahan ini lahir dua orang putri, Rahayu Hana Wijayanti dan Dewi Lestari Hana Wijayanti. Joko sudah mengakrabi duni seni sejak usia muda melalui ayahnya yang pencinta wayang kulit.
+        </item>
+        <item>
+            Ki Timbul Hadiprayitno (lahir di Purworejo, Jawa Tengah, Hindia Belanda, 1932 - meninggal di Bantul, Daerah Istimewa Yogyakarta, Indonesia, 10 Mei 2011 pada umur 79 tahun). Ki Timbul adalah seorang dalang berkebangsaan Indonesia. Ki Timbul dianggap sebagai salah seorang dalang yang terkenal di Indonesia, sehingga ia menjadi dalang favorit Presiden Soeharto dan Abdurrahman Wahid
+            \n\nKi Timbul lahir dari keluarga dalang. Ayahnya, Gito Wasito, merupakan mantan dalang, dan ibunya, Sinah, merupakan keturunan dari keluarga dalang pula. Walaupun lahir dari orang tua yang menggeluti bidang perwayangan, ia tidak ingin mengandalkan bakat dari orang tuanya saja. Setelah lulus dari Sekolah Rakyat, ia melanjutkan pendidikan ke sekolah dalang Habiranda Kraton Yogyakarta selama dua tahun.
+            \n\nKi Timbul sering memperkaya pengetahuan dan pemahaman dengan membaca, sehingga ia dapat mempertunjukkan lakon banjaran, seperti Sengkuni, Kresna, Gatotkaca, Dorna, Kresna dan Karna.
+        </item>
+        <item>
+            Widayat Djiang atau Tjioe Bian Djiang  (Lahir di Desa Berbek, Kabupaten Nganjuk, Jawa Timur Tahun 1940) adalah salah satu dalang wayang kulit Peranakan Tionghoa-Jawa. Lahir dari dari pasangan Tionghoa totok, Tjioe Kok Hin dan perempuan ningrat Jawa, Raden Ajeng Djuariah dari keturunan bangsawan Pakualaman Yogyakarta. Ketika dewasa orang tua Djiang pindah rumah yang dekat dengan kehidupan kesenian di Desa Kecubung, Kecamatan Pace, Kabupaten Nganjuk. Kehidupan kesenian yang berkembang antara lain karawitan, tari, dan wayang kulit serta atraksi budaya yang berupa upacara adat. Oleh karena itulah, sejak kecil Djiang akrab dengan budaya Tionghoa dan Jawa.
+        </item>
+        <item>
+            Drs. H. Soenarjo, M.Si. (lahir di Blitar, Jawa Timur, 19 Januari 1945) adalah Wakil Ketua DPRD Jawa Timur periode 2009-2014 dan mantan Wakil Gubernur Jawa Timur periode 2003-2008. Soenarjo juga pernah menjabat sebagai  Wakil Wali Kota Surabaya periode 1988-1992. Ia akrab disapa warga Jawa Timur dengan sebutan Ki Naryo karena juga merupakan salah satu Dalang di Indonesia.
+            \n\nSoenarjo dikenal sebagai dalang mbêling, karena gebrakan dan inovasinya yang unik dalam membawakan pergelaran wayang kulit. Sebagai dalang senior, Soenarjo juga didapuk sebagai Penasehat Persatuan Pedalangan Indonesia (Pepadi) Jawa Timur. Soenarjo mengawali karier politiknya sebagai Kepala Bagian Umum Kota Blitar pada tahun 1972. Pada tahun 1973, ia dilantik menjadi Sekertaris Kota Blitar. Pada Desember 1975 ia mendapat jabatan baru luar Kota Blitar, yaitu sebagai Kepala BKKBN Kota Malang. Tanggal 1 Oktober 1977, wali kota Malang Sugiyono memberi kepercayaan kepada Soenarjo untuk menjabat sebagai Sekretaris Kota Malang. Pada 1 Oktober 1983, Soenarjo ditugaskan ke Surabaya sebagai Sekretrais BP-7 Provinsi Jawa Timur. Pada tahun 1985, ia dipercaya dan ditunjuk sebagai Sekretaris Kota Surabaya, berduet dengan wali kota Poernomo Kasidi.
+        </item>
     </string-array>
     <integer-array name="data_dalang_image">
         <item>@drawable/wayang_beber_dummy</item>
@@ -112,14 +158,22 @@
         <item>@drawable/wayang_kulit_dummy</item>
         <item>@drawable/wayang_krucil_dummy</item>
         <item>@drawable/wayang_suluh_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
+        <item>@drawable/wayang_suluh_dummy</item>
     </integer-array>
     <string-array name="data_dalang_born">
-        <item>lokasi 1</item>
-        <item>lokasi 2</item>
-        <item>lokasi 3</item>
-        <item>lokasi 4</item>
-        <item>lokasi 5</item>
-        <item>lokasi 6</item>
+        <item>Jawa Tengah</item>
+        <item>Klaten, Jawa Tengah</item>
+        <item>Bandung, Jawa Barat</item>
+        <item>Sukoharjo, Jawa Tengah</item>
+        <item>Tegal, Jawa Tengah</item>
+        <item>Tegal, Jawa Tengah</item>
+        <item>Yogyakarta, Jawa Tengah</item>
+        <item>Purworejo, Jawa Tengah</item>
+        <item>Nganjuk, Jawa Timur</item>
+        <item>Blitar, Jawa Timur</item>
     </string-array>
 
 
@@ -128,41 +182,42 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
     </integer-array>
     <string-array name="data_museum_name">
-        <item>Museum 1</item>
-        <item>Museum 2</item>
-        <item>Museum 3</item>
-        <item>Museum 4</item>
-        <item>Museum 5</item>
-        <item>Museum 6</item>
+        <item>Museum Wayang Jakarta</item>
+        <item>Museum Gubug Wayang Mojokerto</item>
+        <item>Sanggar Wayang Haryanto</item>
     </string-array>
     <string-array name="data_museum_description">
-        <item>Ini Deskripsi Museum 1</item>
-        <item>Ini Deskripsi Museum 2</item>
-        <item>Ini Deskripsi Museum 3</item>
-        <item>Ini Deskripsi Museum 4</item>
-        <item>Ini Deskripsi Museum 5</item>
-        <item>Ini Deskripsi Museum 6</item>
+        <item>
+            Museum Wayang mulanya merupakan gereja yang didirikan oleh kelompok kolonial Belanda VOC pada tahun 1640. Gedung ini kemudian diberi nama “de oude Hollandsche Kerk". Museum Wayang sedikitnya mengoleksi lebih dari 4.000 buah wayang yang terdiri dari wayang kulit, wayang golek, wayang kardus, wayang rumput, wayang janur, topeng, boneka, wayang beber dan gamelan.
+            \n\nMuseum ini berlokasi di Jalan Pintu Besar Utara Nomor 27, Pinangsia, Kota Tua, Jakarta Barat. Museum Wayang buka mulai dari hari Selasa sampai Minggu, pukul 09.00 – 17.00 WIB. Pengunjung hanya perlu merogoh kocek sebesar Rp 5.000 per orang. Untuk pelajar dikenakan tarif Rp 3.000. Sementara untuk anak-anak hanya dikenakan tarif Rp 2.000 per anak.
+            \n\nTidak hanya melihat karya seni perwayangan, pengunjung juga bisa menyaksikan pergelaran Wayang yang dipandu oleh dalang profesional. Kegiatan itu diadakan di hari Minggu mulai jam 10.00 WIB.
+        </item>
+        <item>
+            Museum Gubug Wayang didirikan oleh Yensen Project Indonesia sebagai wujud rasa peduli terhadap seni dan budaya Indonesia yang beraneka ragam. Kecintaaan terhadap sejarah seni dan budaya Indonesia memberikan semangat untuk menjaga dan melestarikannya. Koleksi yang ada meliputi wayang dari berbagai daerah di Indonesia, pusaka asli Indonesia, alat musik tradisional, mainan anak–anak, topeng dan lain lainnya.
+            \n\nWisata Edukasi Seni dan Budaya menjadi tujuan utama berdirinya Museum Gubug Wayang Mojokerto. Dengan tujuan, agar masyarakat lebih mengenal dan merasa memiliki seni dan budaya yang sudah diwariskan secara turun temurun. Sebagai salah satu pilar seni dan budaya Indonesia yang menghadirkan berbagai keberagaman Nusantara, museum ini memiliki peranan penting dalam pendidikan karakter budaya masyarakat Indonesia.
+            \n\nMuseum yang diresmikan pada tanggal 15 Agustus 2015, berlokasi di tengah Kota Mojokerto. Dengan bangunan tiga lantai, Museum Gubug Wayang menghadirkan berbagai karya anak bangsa dari berbagai macam daerah. Kecintaan Gubug Wayang akan indahnya budaya di Indonesia menjadi semangat untuk terus berbenah dan memberikan informasi sejarah tentang seni dan budaya Indonesia.
+        </item>
+        <item>
+            Sanggar ini berkecimpung dalam aktivitas bisnis Seni dan Kerajinan Tangan.
+        </item>
     </string-array>
     <integer-array name="data_museum_image">
         <item>@drawable/wayang_beber_dummy</item>
         <item>@drawable/wayang_gedog_dummy</item>
         <item>@drawable/wayang_golak_dummy</item>
-        <item>@drawable/wayang_kulit_dummy</item>
-        <item>@drawable/wayang_krucil_dummy</item>
-        <item>@drawable/wayang_suluh_dummy</item>
     </integer-array>
     <string-array name="data_museum_location">
-        <item>lokasi 1</item>
-        <item>lokasi 2</item>
-        <item>lokasi 3</item>
-        <item>lokasi 4</item>
-        <item>lokasi 5</item>
-        <item>lokasi 6</item>
+        <item>
+            Jalan Pintu Besar Utara No.27 Pinangsia, RT.3/RW.6, Kota Tua, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11110
+        </item>
+        <item>
+            Jalan R.A Kartini, Mergelo, Kauman, Kec. Prajurit Kulon, Kota Mojokerto, Jawa Timur 61382
+        </item>
+        <item>
+            Sanggar Wayang Haryanto berlokasi Kp Telukan 24 RT 002/11,Solo Baru,Sukoharjo, Solo 57552, Indonesia.
+        </item>
     </string-array>
 
     <!-- Story Local Data (Offline Data) -->
@@ -232,13 +287,6 @@
         <item>@drawable/wayang_krucil_dummy</item>
         <item>@drawable/wayang_suluh_dummy</item>
     </integer-array>
-
-
-
-
-
-
-
 
 
     <string name="enter" translatable="false">Enter</string>
